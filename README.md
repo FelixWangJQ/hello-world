@@ -1,4 +1,6 @@
 # hello-world
-Just a Repository
 
-I like github
+Hi friends!
+
+I'm a new coder with great dreams!
+
